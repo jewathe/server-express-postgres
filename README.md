@@ -14,7 +14,7 @@
          2- password: 'postgres'
     4- locale: french canada (selon le pays).
     5- Lancer l'interface d'administration: pgAdmin4 
-    6- Créer la base de données: structure_logicielle (Servers->PostgreSQL 13->Databases et ensuite right-click sur Databases et choisir Create->Database)
+    6- Créer la base de données: kiwidatabase (Servers->PostgreSQL 13->Databases et ensuite right-click sur Databases et choisir Create->Database)
     
 ### Ajouter le repertoire du projet dans VS Code et puis dans
 ### le terminal passer la command suivante:
