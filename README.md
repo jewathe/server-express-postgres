@@ -24,3 +24,7 @@
 ### Demarrez le serveur Express:
 
 <img width="722" alt="image" src="https://github.com/user-attachments/assets/ff35bc7c-9ca0-4803-a2f8-1ecc029cfd4a">
+
+# Test avec Postman
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/36ad6612-ebdd-4a5b-ac3b-25c05353ef3f">
