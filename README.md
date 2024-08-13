@@ -9,7 +9,7 @@
 # [Télécharger la dernière version ](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
     1- Lancer l'installation et fournir les informations suivantes.
     2- Note: Ne pas utiliser le stack builder à la fin de l'installation de PostgreSQL.
-    3- Creer:
+    3- Créer:
          1- user: 'postgres',
          2- password: 'postgres'
     4- locale: french canada (selon le pays).
